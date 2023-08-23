@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gcseagren
 - 👀 I’m interested in becoming some sort of job in software engineering
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on not much yet
 - 📫 How to reach me gcseagren@gmail.com
 <!---
